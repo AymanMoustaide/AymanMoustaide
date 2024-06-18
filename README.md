@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋🏼, I'm Ayman Moustaide</h1> 
-###
-**`🏄‍♂ Ayman Moustaide🇲🇦`**
+
 
 **`I began my coding journey since adolescence with a passion to learn everything I could about the programming world. Soon, I abandoned my dream to become an expert in cybersecurity to work on managing social media accounts and creating professional content including videos and images for various companies. Over the past 3 years, I have been teaching myself the Python programming language and recently enrolled in an ALX program as a backend developer.
 `**
