@@ -1,20 +1,38 @@
-<h1 align="center">Hi 👋🏼, I'm Ayman Moustaide</h1> 
-<h1 align="center">I work as a social media manager for various companies with four years of experience. I am passionate about creating high-quality content and strategies that solve real problems for people. I am currently studying at ALX Tech to become a backend developer. My hobbies include cybersecurity.</h1>
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Ayman-Moustaide) 
-[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@MoustaideAyman) 
+# 🏄‍♂️ Ayman Moustaide
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white)
+**`Social Media Manager`**
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+I work as a social media manager for various companies with four years of experience. I am passionate about creating high-quality content and strategies that solve real problems for people. I am currently studying at ALX Tech to become a backend developer. My hobbies include cybersecurity.
+
+   <p align="left">
+      <a href="https://www.youtube.com/c/fknight?sub_confirmation=1">
+         <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UC2WHjPDvbE6O328n17ZGcfg?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/></a> 
+      <a href="https://www.youtube.com/c/fknight">
+         <img alt="youtube views" title="YouTube views" src="https://custom-icon-badges.demolab.com/youtube/channel/views/UC2WHjPDvbE6O328n17ZGcfg?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"/></a> 
+      <a href="https://github.com/ForrestKnight?tab=followers">
+         <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/ForrestKnight?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+      <a href="https://github.com/ForrestKnight?tab=repositories&sort=stargazers">
+         <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/ForrestKnight?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
+   </p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=AymanMoustaide&icon=0&color=0)](https://visitcount.itsvg.in)
 
-  ## 💰 You can help me by Donating
-  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/paypal.me/AMoustaide) 
+### 🧰 Languages and Tools
 
-  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
+<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+<img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
+<img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
+<img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
+<img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+<img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
+<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+<br />
+
+#
+<!--
+<details>
+ <summary><h3>👨‍💻 Forrest's Coding Journey</h3></summary>
+   I started my coding journey as a naive computer science student with a passion to learn everything I could about this programming world - code, unix, linux, theory. And all the while, teaching myself iOS development with a dream to build my own app, but that soon got overshadowed by my desire to excel in Java. A desire that landed me a full-stack software engineering job upon graduation. However, I had another desire I had been pursuing throughout this time - YouTube content creation. I eventually ended up quitting my software engineering job to pursue YouTube full-time, and that has been my focus ever since. But there's something that's always bothered me about my journey - abandoning my dream of building my own app to pursue the safe route, a job. Now I've already taken the leap away from that safety net into this uncomfortable, unexplored world that it being a creator. And it worked out, but again, it became comfortable. It's easier to create a video than go out on a ledge and build my own product. I do have to eat, at the end of the day, but I think it's time. It's time to get uncomfortable again. I have a burning desire to get back on the horse, and fulfill that dream younger me had of building my own app, my own product. And in order to do that, I'll be implmementing a few measures to streamline my YouTube content to focus more time on fulfilling that dream - a dream that I'll be ready to tackle in 2023 due to the measure I'm putting in place now until the end of 2022. Don't wait up, because I'm coming.
+-->
