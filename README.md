@@ -1,4 +1,5 @@
-## 👋🏼 I work as a social media manager for various companies with four years of experience. I am passionate about creating high-quality content and strategies that solve real problems for people. I am currently studying at ALX Tech to become a backend developer. My hobbies include cybersecurity.
+<h1 align="center">Hi 👋🏼, I'm Ayman Moustaide</h1> 
+<h1 align="center">I work as a social media manager for various companies with four years of experience. I am passionate about creating high-quality content and strategies that solve real problems for people. I am currently studying at ALX Tech to become a backend developer. My hobbies include cybersecurity.</h1>
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Ayman-Moustaide) 
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@MoustaideAyman) 
