@@ -2,7 +2,7 @@
 
 **`Social Media Manager`**
 
-<h1 align="center">I work as a social media manager for various companies with four years of experience. I am passionate about creating high-quality content and strategies that solve real problems for people. I am currently studying at ALX Tech to become a backend developer. My hobbies include cybersecurity.</h1>
+<align="center">I work as a social media manager for various companies with four years of experience. I am passionate about creating high-quality content and strategies that solve real problems for people. I am currently studying at ALX Tech to become a backend developer. My hobbies include cybersecurity.>
 
 ### 🧰 Languages and Tools
 
