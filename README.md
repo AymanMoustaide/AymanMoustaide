@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋🏼, I'm Ayman Moustaide</h1> 
 
 
-**`I began my coding journey since adolescence with a passion to learn everything I could about the programming world. Soon, I abandoned my dream to become an expert in cybersecurity to work on managing social media accounts and creating professional content including videos and images for various companies. Over the past 3 years, I have been teaching myself the Python programming language and recently enrolled in an ALX program as a backend developer.
+**`I began my journey into the world of computers at the age of 14 with a passion to learn everything I could about programming and to fulfill my dream of becoming an expert in cybersecurity. Soon, I abandoned my dream to focus on managing social media accounts and creating professional content, including videos and images, for several different companies. Over the past three years, I have been self-teaching myself the Python programming language and recently enrolled in the ALX program as a backend developer. I hope this is a good start to achieving the dream I have always wanted to fulfill.
 `**
 
 ### 💻 Languages and Tools
